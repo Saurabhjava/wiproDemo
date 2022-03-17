@@ -1,0 +1,8 @@
+to make this game we will read input constraints(inputs) from both players (p1 & p2).
+after that we check :
+	
+	vertically ==== all 3 columns
+	horizontally ==== all 3 rows
+	digonally === d1 & d2
+
+we'll check for all 8 conditions, if any condition will be fullfilled by any player, he will be winner.
